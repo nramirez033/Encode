@@ -1,0 +1,6 @@
+@Encode.Api_HostAddress = http://localhost:5283
+
+GET {{Encode.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

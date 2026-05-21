@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Encode.Api/Encode.Api.csproj" />
+  <Project Path="Encode.Application/Encode.Application.csproj" Id="47f8b0e1-1fdb-4cbb-be71-3b16522ec0d5" />
+  <Project Path="Encode.Domain/Encode.Domain.csproj" />
+  <Project Path="Encode.Infrastructure/Encode.Infrastructure.csproj" />
+</Solution>
